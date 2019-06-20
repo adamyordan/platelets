@@ -13,7 +13,7 @@ def load_requirements(fname):
 
 setuptools.setup(
     name='platelets',  
-    version='0.4',
+    version='0.5',
     scripts=['platelets/platelets'] ,
     author="Adam Jordan",
     author_email="adamyordan@gmail.com",
